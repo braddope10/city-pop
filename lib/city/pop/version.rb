@@ -4,4 +4,3 @@ module City
   end
 end
 
-#what the fuck
